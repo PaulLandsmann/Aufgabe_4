@@ -33,6 +33,9 @@ public class H2_main {
 		boolean b = E1 || E3;
 		boolean c = !y;
 	
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
 	}
 
 }
